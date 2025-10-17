@@ -164,4 +164,6 @@ dashboard-grid {
   transform: scale(1.1);
 }
 .header, .sidebar, .content {
+  width: 100%;
   height: 100%;
+}
